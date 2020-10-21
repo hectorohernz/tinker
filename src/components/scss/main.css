@@ -1,0 +1,46 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+#nav__logo {
+  font-size: 4rem;
+}
+
+@media only screen and (min-width: 0px) and (max-width: 500px) {
+  .nav__default__style {
+    width: 100%;
+    padding: 5px 10px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+  }
+  #nav__logo {
+    font-size: 3.8rem;
+    color: #2ECC71;
+  }
+  .nav__btn_container {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+  }
+  .nav__btn {
+    background: #2ECC71;
+    border: #2ECC71;
+    width: 50%;
+    padding: 8px 5px;
+    margin: 0px 5px;
+    height: 2.3rem;
+    line-height: 0rem;
+  }
+  .nav__btn a {
+    color: white;
+  }
+}
+/*# sourceMappingURL=main.css.map */
