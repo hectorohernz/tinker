@@ -1,0 +1,33 @@
+{
+    "users":[
+    {
+        "id":1,
+        "userId":101,
+        "username":"highsgod",
+        "email":"hectorohernz@gmail.com",
+        "password":"Password1",
+        "Template":"dark-mode",
+        "head-image":"",
+        "user-info":{
+            "description":"Living Life",
+            "gender":"male",
+            "age":"18",
+            "movie":{
+             "title":"Intersellar",
+             "image-path":""
+            },
+            "song":{
+                "title":"Tommy Lee",
+                "artist":"Tyla Yahweh, SAINt JHN, Post Malone",
+                "link":"",
+                "image-path":""
+            },
+            "clothing-brand":"Supreme"
+        },
+        "links":{
+            "instagram":"instagram.com/hectorohernz",
+            "twitter":"twitter.com/hectorohernz"
+        }
+    } 
+    ]   
+}
